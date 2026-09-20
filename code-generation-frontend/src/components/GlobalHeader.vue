@@ -20,7 +20,7 @@ const handleMenuClick: MenuProps['onClick'] = ({ key }) => {
       <a-col flex="none">
         <RouterLink to="/" class="title-bar">
           <img class="logo" src="@/assets/logo.png" alt="logo" />
-          <span class="title">代码生成</span>
+          <span class="title">CodeGeneration</span>
         </RouterLink>
       </a-col>
       <a-col flex="auto" class="menu-col">
@@ -54,9 +54,10 @@ const handleMenuClick: MenuProps['onClick'] = ({ key }) => {
 }
 
 .logo {
-  height: 32px;
-  width: 32px;
+  height: 40px;
+  width: 40px;
   object-fit: contain;
+  border-radius: 50%;
 }
 
 .title {
