@@ -1,8 +1,6 @@
 <template>
   <div class="footer">
-    <a href="https://github.com/Naromu520" target="_blank" rel="noopener noreferrer">
-      by Sylnamu
-    </a>
+    <a href="https://github.com/Sylnamu" target="_blank" rel="noopener noreferrer"> by Sylnamu </a>
   </div>
 </template>
 
