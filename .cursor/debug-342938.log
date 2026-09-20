@@ -1,0 +1,14 @@
+{"sessionId":"342938","runId":"pre-fix","hypothesisId":"H4","location":"main.ts:mount","message":"app mounting","data":{"href":"http://localhost:5173/","pathname":"/","baseUrl":"/"},"timestamp":1789917505314}
+{"sessionId":"342938","runId":"pre-fix","hypothesisId":"H4","location":"router/index.ts:afterEach","message":"route afterEach","data":{"path":"/","name":"home","matched":["home"],"fullPath":"/"},"timestamp":1789917505462}
+{"sessionId":"342938","runId":"pre-fix","hypothesisId":"H5","location":"App.vue:healthCheck.then","message":"healthCheck success","data":{"status":200,"code":0,"url":"/health/"},"timestamp":1789917505560}
+{"sessionId":"342938","runId":"pre-fix","hypothesisId":"H4","location":"main.ts:mount","message":"app mounting","data":{"href":"http://localhost:5173/","pathname":"/","baseUrl":"/"},"timestamp":1789917567713}
+{"sessionId":"342938","runId":"pre-fix","hypothesisId":"H4","location":"router/index.ts:afterEach","message":"route afterEach","data":{"path":"/","name":"home","matched":["home"],"fullPath":"/"},"timestamp":1789917567880}
+{"sessionId":"342938","runId":"pre-fix","hypothesisId":"H5","location":"App.vue:healthCheck.then","message":"healthCheck success","data":{"status":200,"code":0,"url":"/health/"},"timestamp":1789917567922}
+{"sessionId":"342938","runId":"pre-fix","hypothesisId":"H4","location":"main.ts:mount","message":"app mounting","data":{"href":"http://localhost:5173/","pathname":"/","baseUrl":"/"},"timestamp":1789917603121}
+{"sessionId":"342938","runId":"pre-fix","hypothesisId":"H4","location":"main.ts:mount","message":"app mounting","data":{"href":"http://localhost:5173/","pathname":"/","baseUrl":"/"},"timestamp":1789917603133}
+{"sessionId":"342938","runId":"pre-fix","hypothesisId":"H4","location":"router/index.ts:afterEach","message":"route afterEach","data":{"path":"/","name":"home","matched":["home"],"fullPath":"/"},"timestamp":1789917603343}
+{"sessionId":"342938","runId":"pre-fix","hypothesisId":"H4","location":"router/index.ts:afterEach","message":"route afterEach","data":{"path":"/","name":"home","matched":["home"],"fullPath":"/"},"timestamp":1789917603341}
+{"sessionId":"342938","runId":"pre-fix","hypothesisId":"H5","location":"App.vue:healthCheck.then","message":"healthCheck success","data":{"status":200,"code":0,"url":"/health/"},"timestamp":1789917603384}
+{"sessionId":"342938","runId":"pre-fix","hypothesisId":"H5","location":"App.vue:healthCheck.then","message":"healthCheck success","data":{"status":200,"code":0,"url":"/health/"},"timestamp":1789917603419}
+{"sessionId":"342938","runId":"pre-fix","hypothesisId":"H5","location":"App.vue:healthCheck.then","message":"healthCheck success","data":{"status":200,"code":0,"url":"/health/"},"timestamp":1789917606050}
+{"sessionId":"342938","runId":"pre-fix","hypothesisId":"H5","location":"App.vue:healthCheck.then","message":"healthCheck success","data":{"status":200,"code":0,"url":"/health/"},"timestamp":1789917606623}
